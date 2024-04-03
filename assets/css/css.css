@@ -15,6 +15,7 @@
 
 *{
     font-family: var(--font-principal);
+    list-style-type: none;
 }
 
 header{
